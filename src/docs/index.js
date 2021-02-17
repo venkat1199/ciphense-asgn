@@ -226,7 +226,7 @@ class Docs extends React.PureComponent {
         <Wrapper>
           <Title>Camera For You</Title>
           <Subtitle>We all look beautiful</Subtitle>
-          <Link href="https://github.com/arjanj/react-camera">
+          <Link href="https://github.com/venkat1199/ciphense-asgn">
             Code and documentation on GitHub
           </Link>
         </Wrapper>
